@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Noeh
 
-<!--
-**noehparrales1/noehparrales1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Math-CS student at UC San Diego focused on Machine Learning and applied AI.  
+I enjoy building practical systems that turn math into real-world tools.
 
-Here are some ideas to get you started:
+## Currently Working On
+- Machine learning projects (PyTorch, LSTMs, classification)
+- Reinforcement learning experiments  
+- Full-stack data applications  
+- Exploring data engineering (ETL pipelines, data modeling, cloud workflows)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+
+**Machine Learning:**  
+Python, PyTorch, Scikit-learn, NumPy, Pandas  
+
+**Data Engineering:**  
+SQL, PostgreSQL, BigQuery, GCP, Google Cloud Storage, ETL Pipelines, Data Modeling  
+
+**Software Development:**  
+React, Node.js, Express, REST APIs, Docker, Git, GitHub Actions, Linux, Bash
+
+## Contact
+noehparrales079@gmail.com  
+LinkedIn: https://linkedin.com/in/your-link
