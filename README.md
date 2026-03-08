@@ -21,5 +21,5 @@ SQL, PostgreSQL, BigQuery, GCP, Google Cloud Storage, ETL Pipelines, Data Modeli
 React, Node.js, Express, REST APIs, Docker, Git, GitHub Actions, Linux, Bash
 
 ## Contact
-noehparrales079@gmail.com  
-LinkedIn: https://linkedin.com/in/your-link
+Email: noehparrales079@gmail.com  
+LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/noeh-parrales-580b442aa/)
