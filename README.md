@@ -27,7 +27,7 @@ React, JavaScript, HTML, CSS
 SQL, MongoDB, Relational Schema Design  
 
 **DevOps & Tools:**  
-Docker, AWS, Git
+Docker, Git
 ## Contact
 Email: noehparrales079@gmail.com  
 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/noeh-parrales-580b442aa/)
